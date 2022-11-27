@@ -1,5 +1,5 @@
 import React from 'react';
-import makeStyles from '@mui/styles/makeStyles';
+import { makeStyles } from '@mui/styles';
 import Button from '@mui/material/Button';
 import TextField from '@mui/material/TextField';
 import Table from "./Table"
