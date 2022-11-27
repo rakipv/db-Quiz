@@ -12,7 +12,8 @@ const useStyles = makeStyles((theme) => ({
         alignItems: "center"
     }, input: {
         maxWidth: "800px",
-        margin: "24px"
+        margin: "24px !important",
+
     }, table: {
         maxWidth: "1000px",
         margin: "24px"
